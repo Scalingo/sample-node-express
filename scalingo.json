@@ -9,6 +9,7 @@
       "amount": 1,
       "size": "S"
     }
-  }
+  },
+  "addons": ["redis:redis-sandbox"]
 }
 
